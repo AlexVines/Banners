@@ -5,4 +5,5 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib
+
 **Touristic places data:** https://archive.org/details/201309_foursquare_dataset_umn
